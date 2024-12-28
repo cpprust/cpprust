@@ -8,4 +8,4 @@
                 ||----w |
                 ||     ||
 ```
-[🍕](https://gitlab.com/cpprust)
+[🍕](https://cpprust.github.io)
